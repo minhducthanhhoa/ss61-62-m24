@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "hoa"
+    },
+    {
+      "id": 2,
+      "name": "minh thu"
+    },
+    {
+      "id": 1,
+      "name": "huệ"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1718725988444,
+      "name": "nấu cơm",
+      "completed": false
+    },
+    {
+      "id": 1718725993925,
+      "name": "rửa bát ",
+      "completed": false
+    }
+  ]
+}
